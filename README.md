@@ -1,5 +1,5 @@
 # MyReads Project
-Udacity react course assignment 1
+Udacity react course assignment 1. the purpose of this project is to get the understanding on React. the webapp work as a book management system. You can find your fav book by its search function and switch books between shelves (currently reading, want to read and read). 
 
 ## download
 download with
